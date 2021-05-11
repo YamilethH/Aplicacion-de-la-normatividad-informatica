@@ -1,11 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/YamilethH/Aplicacion-de-la-normatividad-informatica/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome  
 
 A una pendeja se le olvidó añadir los archivos y la página se subió por defecto, ósea pelona
-Ya que andas por aquí, te amo bb ♡
+Jajaja, Ya que andas por aquí, te amo bb ♡
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
